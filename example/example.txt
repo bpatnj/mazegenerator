@@ -1,0 +1,2 @@
+  This folder demonstrates the example output of the inputfile and the resultant output csvfile.
+  If you go to ISSUES, you will see an image of the output maze this python script, example.py will generate.
